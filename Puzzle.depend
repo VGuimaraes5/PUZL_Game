@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1590351826 source:c:\users\gagaz\onedrive\documentos\fatec\prog\jogoprog2c\puzzle-0.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"Colors/colors.h"
+
+1590188457 c:\users\gagaz\onedrive\documentos\fatec\prog\jogoprog2c\puzzle-0.4\colors\colors.h
+
+1590959765 source:c:\users\gagaz\onedrive\documentos\fatec\prog\jogoprog2c\tentativa_menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"Colors/colors.h"
+
+1590188457 c:\users\gagaz\onedrive\documentos\fatec\prog\jogoprog2c\tentativa_menu\colors\colors.h
+
+1591064239 source:c:\users\viniciusguimaraes\desktop\tentativa_menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"Colors/colors.h"
+
+1590188457 c:\users\viniciusguimaraes\desktop\tentativa_menu\colors\colors.h
+
+1591161298 source:c:\users\viniciusguimaraes\desktop\puzl-0.6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<sys/stat.h>
+	"Colors/colors.h"
+
+1590188457 c:\users\viniciusguimaraes\desktop\puzl-0.6\colors\colors.h
+
+1591403436 source:c:\users\gagaz\onedrive\documentos\fatec\prog\jogoprog2c\puzl-1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<sys/stat.h>
+	<direct.h>
+	"Colors/colors.h"
+
+1590188457 c:\users\gagaz\onedrive\documentos\fatec\prog\jogoprog2c\puzl-1.0\colors\colors.h
+
+1591403436 source:c:\users\viniciusguimaraes\onedrive - fatec centro paula souza\documents\fatec\programacao_2\puzzle\puzl-1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<sys/stat.h>
+	<direct.h>
+	"Colors/colors.h"
+
+1590188457 c:\users\viniciusguimaraes\onedrive - fatec centro paula souza\documents\fatec\programacao_2\puzzle\puzl-1.1\colors\colors.h
+
